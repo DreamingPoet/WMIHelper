@@ -1,0 +1,6 @@
+;LIBRARY WMIHelper
+
+EXPORTS
+InitCOM
+WMIQuery
+UnInit
